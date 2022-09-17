@@ -2,6 +2,8 @@
 
 written in Python
 
+download requirements & pythonCryptographyTool
+
 features:
 
 Encrypts text using key into bytes
