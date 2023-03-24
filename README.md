@@ -6,7 +6,7 @@ download requirements & pythonCryptographyTool
 
 features:
 
-Encrypts text using key into bytes
+Encrypts text using key into bytes.
 
 Decrypts bytes back into string using key
 
